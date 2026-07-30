@@ -23,7 +23,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     title: "The City Palace Royal Story",
     category: "royal-bridal",
     categoryLabel: "Royal Bridal",
-    image: "https://images.unsplash.com/photo-1595981267035-7b04ca84a82d?q=80&w=1200&auto=format&fit=crop",
+    image: "images/9.png",
     location: "City Palace, Udaipur",
     description: "Full-arm bespoke bridal layout weaving the couple's initial meet at Lake Pichola, intricate elephant procession (Hathi Baraat), and traditional Doli motifs.",
     detailMotifs: ["Peacock Sanctuary Palms", "Royal Doli & Shehnai", "Personalized Couple Portraits", "Micro Floral Mesh"],
@@ -35,7 +35,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     title: "Heritage Nawabi Intricacy",
     category: "royal-bridal",
     categoryLabel: "Royal Bridal",
-    image: "https://images.unsplash.com/photo-1610030469983-98e550d6193c?q=80&w=1200&auto=format&fit=crop",
+    image: "images/1.png",
     location: "Jehan Numa Palace, Bhopal",
     description: "Classic Nawabi arches and jali craftsmanship created with ultra-fine 0.3mm cone application for flawless symmetrical geometry.",
     detailMotifs: ["Architectural Jali Arches", "Lotus Cascade", "Heavy Elbow Framing", "Full Feet Anklet Lace"],
@@ -47,7 +47,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     title: "Modern Botanical Elegance",
     category: "modern-minimal",
     categoryLabel: "Modern Minimalist",
-    image: "https://images.unsplash.com/photo-1583939003579-730e3918a45a?q=80&w=1200&auto=format&fit=crop",
+    image: "images/2.png",
     location: "Fairmont, Jaipur",
     description: "Designed for the modern bride seeking breathable negative space, delicate glove-inspired finger lace, and refined vine symmetry.",
     detailMotifs: ["Negative Space Bands", "Ethereal Fingertip Rings", "Floating Lotus Buds", "Clean Wrist Cuffs"],
@@ -58,7 +58,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     title: "Dubai Skyline & Persian Lattice",
     category: "arabic-indo",
     categoryLabel: "Arabic & Indo-Western",
-    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?q=80&w=1200&auto=format&fit=crop",
+    image: "images/3.png",
     location: "Jumeirah Zabeel Saray, Dubai",
     description: "Bold Arabic shaded florals seamlessly blended with dense Indian filler motifs, crafted for an international destination bride.",
     detailMotifs: ["Bold Shaded Rose Trails", "Persian Geometric Lattice", "Gold-Accented Borders", "Finger Tips Ombre"],
@@ -68,7 +68,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     title: "Radha Krishna & Varmala Portraits",
     category: "portrait-motifs",
     categoryLabel: "Portrait Details",
-    image: "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?q=80&w=1200&auto=format&fit=crop",
+    image: "images/4.png",
     location: "The Leela Palace, Bengaluru",
     description: "High-precision portrait art embedded into both palms, capturing the groom’s exact likeness and a sacred Varmala ceremony scene.",
     detailMotifs: ["Realistic Portrait Engraving", "Varmala Scene", "Hashtag & Date Calligraphy", "Royal Canopy Arches"],
@@ -79,7 +79,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     title: "Sangeet Soirée Family Suite",
     category: "sangeet-guest",
     categoryLabel: "Sangeet & Guest Art",
-    image: "https://images.unsplash.com/photo-1532712938310-34cb3982ef74?q=80&w=1200&auto=format&fit=crop",
+    image: "images/5.png",
     location: "W Hotel, Goa",
     description: "Expeditious luxury mehendi service for 40+ VIP wedding guests and bridesmaids, featuring stylish mandalas and wrist cuff bands.",
     detailMotifs: ["Speed Mandala Medallions", "Boho Cuff Bands", "Quick-Dry Organic Paste", "Chic Palm Mandalas"],
@@ -89,7 +89,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     title: "Imperial Royal Feet Paduka",
     category: "royal-bridal",
     categoryLabel: "Royal Bridal",
-    image: "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?q=80&w=1200&auto=format&fit=crop",
+    image: "images/6.png",
     location: "Rambagh Palace, Jaipur",
     description: "Traditional Rajasthani feet mehendi up to knees, featuring royal anklet bands, traditional peacock toes, and intricate central lotus mandala.",
     detailMotifs: ["Ornate Payal Anklets", "Knee-Length Lattice", "Intricate Toe Rings", "Royal Peacock Crests"],
@@ -99,7 +99,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     title: "Marwari Heritage Full Arm Suite",
     category: "royal-bridal",
     categoryLabel: "Royal Bridal",
-    image: "https://images.unsplash.com/photo-1595981267035-7b04ca84a82d?q=80&w=1200&auto=format&fit=crop",
+    image: "images/7.png",
     location: "Umaid Bhawan Palace, Jodhpur",
     description: "Ultra-dense traditional Marwari craftsmanship spanning from fingertips to biceps, weaving sacred shloka inscriptions and royal durbar scenes.",
     detailMotifs: ["Royal Durbar Scenes", "Sanskrit Shloka Calligraphy", "Dense Micro Jali", "Heavy Bicep Cuffs"],
@@ -110,7 +110,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     title: "Sacred Lotus Centerpiece Palms",
     category: "modern-minimal",
     categoryLabel: "Modern Minimalist",
-    image: "https://images.unsplash.com/photo-1610030469983-98e550d6193c?q=80&w=1200&auto=format&fit=crop",
+    image: "images/8.png",
     location: "Taj Lake Palace, Udaipur",
     description: "Symmetrical central lotus mandala framed by clean geometric concentric circles and delicate fingertip lace.",
     detailMotifs: ["Concentric Lotus Rings", "Geometry Wrist Cuffs", "Clean Negative Spacing", "Delicate Fingertips"],
@@ -135,7 +135,7 @@ export const SERVICE_PACKAGES: ServicePackage[] = [
       "Complimentary Aftercare Oil & Lemon-Sugar Sealing Service",
       "Guaranteed Dark Mahogany Stain"
     ],
-    image: "https://images.unsplash.com/photo-1595981267035-7b04ca84a82d?q=80&w=1200&auto=format&fit=crop",
+    image: "images/1.png",
     popular: true,
   },
   {
@@ -155,7 +155,7 @@ export const SERVICE_PACKAGES: ServicePackage[] = [
       "Personalized Date & Monogram Calligraphy",
       "Aftercare Kit Included"
     ],
-    image: "https://images.unsplash.com/photo-1583939003579-730e3918a45a?q=80&w=1200&auto=format&fit=crop",
+    image: "images/2.png",
   },
   {
     id: "destination-wedding-suite",
@@ -174,7 +174,7 @@ export const SERVICE_PACKAGES: ServicePackage[] = [
       "Emergency Backup Henna Cones & Sealants",
       "Dedicated Event Coordinator Support"
     ],
-    image: "https://images.unsplash.com/photo-1532712938310-34cb3982ef74?q=80&w=1200&auto=format&fit=crop",
+    image: "images/3.png",
     popular: false,
   },
   {
@@ -193,7 +193,7 @@ export const SERVICE_PACKAGES: ServicePackage[] = [
       "Custom Styled Artist Setup Bar",
       "Hourly Extension Available"
     ],
-    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?q=80&w=1200&auto=format&fit=crop",
+    image: "images/4.png",
   }
 ];
 

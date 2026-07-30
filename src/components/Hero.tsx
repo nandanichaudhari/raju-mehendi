@@ -105,7 +105,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenBooking }) => {
               {/* Main Vertical Photograph */}
               <div className="relative rounded-xl overflow-hidden shadow-2xl border-4 border-[#FBF7F1] bg-[#FBF7F1] aspect-3/4">
                 <img
-                  src="https://images.unsplash.com/photo-1595981267035-7b04ca84a82d?q=80&w=1000&auto=format&fit=crop"
+                  src="images/10.jpg"
                   alt="Royal Indian Bridal Mehendi Hands by Raju Mehendi"
                   loading="eager"
                   fetchPriority="high"
@@ -125,7 +125,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenBooking }) => {
               {/* Overlapping Secondary Detail Image (Floating Spatial Component) */}
               <div className="absolute -bottom-8 -left-6 sm:-bottom-10 sm:-left-10 w-48 sm:w-56 aspect-square rounded-xl overflow-hidden shadow-2xl border-4 border-[#FBF7F1] bg-[#FBF7F1] hidden sm:block">
                 <img
-                  src="https://images.unsplash.com/photo-1610030469983-98e550d6193c?q=80&w=600&auto=format&fit=crop"
+                  src="images/6.png"
                   alt="Intricate Fine Line Mehendi Motif Detail"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover object-center"

@@ -79,7 +79,7 @@ export const Portfolio: React.FC<PortfolioProps> = ({ onOpenBookingWithDesign })
         <div className="relative max-w-5xl mx-auto rounded-2xl overflow-hidden shadow-2xl border-4 border-[#FBF7F1] bg-[#3A2522]">
           <div className="aspect-16/9 sm:aspect-21/9 relative overflow-hidden">
             <img
-              src="https://images.unsplash.com/photo-1610030469983-98e550d6193c?q=80&w=1600&auto=format&fit=crop"
+              src="images/10.jpg"
               alt="Raju Mehendi Signature Masterpiece Showcase"
               referrerPolicy="no-referrer"
               className="w-full h-full object-cover object-center transform hover:scale-102 transition-transform duration-1000"

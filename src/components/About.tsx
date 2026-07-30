@@ -20,7 +20,7 @@ export const About: React.FC = () => {
               {/* Main Vertical Portrait Frame */}
               <div className="relative rounded-2xl overflow-hidden shadow-2xl border-4 border-[#F7F1E8] bg-[#F7F1E8] aspect-3/4">
                 <img
-                  src="https://images.unsplash.com/photo-1610030469983-98e550d6193c?q=80&w=1000&auto=format&fit=crop"
+                  src="images/10.jpg"
                   alt="Raju Mehendi Master Bridal Artist creating intricate henna art"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover object-center transform transition-transform duration-700 hover:scale-102"
@@ -32,7 +32,7 @@ export const About: React.FC = () => {
               {/* Overlapping Small Detail Image (Lower Corner) */}
               <div className="absolute -bottom-8 -right-4 sm:-bottom-10 sm:-right-8 w-44 sm:w-52 aspect-square rounded-xl overflow-hidden shadow-2xl border-4 border-[#FBF7F1] bg-[#FBF7F1] hidden sm:block">
                 <img
-                  src="https://images.unsplash.com/photo-1595981267035-7b04ca84a82d?q=80&w=600&auto=format&fit=crop"
+                  src="images/8.png"
                   alt="Intricate Fine Line Henna Craftsmanship Detail"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover object-center"

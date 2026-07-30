@@ -21,7 +21,7 @@ const SERVICES_DATA: ServiceRow[] = [
     tagline: "Full-Length Masterpiece & Storytelling Motifs",
     description: "Bespoke full arm and leg bridal layout incorporating couple portraits, doli & baraat processions, sacred mantras, and personal dates.",
     features: ["100% Organic Sojat Henna", "Full Arm & Knee Coverage", "Portrait & Story Motifs", "Aftercare Kit Included"],
-    image: "https://images.unsplash.com/photo-1595981267035-7b04ca84a82d?q=80&w=1000&auto=format&fit=crop",
+    image: "images/1.png",
   },
   {
     number: "02",
@@ -29,7 +29,7 @@ const SERVICES_DATA: ServiceRow[] = [
     tagline: "Worldwide Travel & Dedicated Bridal Artist Crew",
     description: "Master Raju Mehendi and senior assistant artists travel directly to your resort or palace in Udaipur, Jaipur, Goa, Dubai, or internationally.",
     features: ["On-Site Artist Team", "Full Bridal + VIP Guest Coverage", "Travel & Lodging Coordinated", "Oxidation Monitoring"],
-    image: "https://images.unsplash.com/photo-1532712938310-34cb3982ef74?q=80&w=1000&auto=format&fit=crop",
+    image: "images/2.png",
   },
   {
     number: "03",
@@ -37,7 +37,7 @@ const SERVICES_DATA: ServiceRow[] = [
     tagline: "Royal Heritage Aesthetics & Traditional Jali Craft",
     description: "Traditional Rajasthani and Central Indian Nawabi designs with 0.3mm ultra-fine cone precision, peacock crests, and payal anklets.",
     features: ["Classic Royal Motifs", "Precision 0.3mm Cone", "Symmetrical Balance", "Zero-Chemical Stain"],
-    image: "https://images.unsplash.com/photo-1610030469983-98e550d6193c?q=80&w=1000&auto=format&fit=crop",
+    image: "images/3.png",
   },
   {
     number: "04",
@@ -45,7 +45,7 @@ const SERVICES_DATA: ServiceRow[] = [
     tagline: "Contemporary Minimalist & Modern Negative Space",
     description: "Tailored modern layouts with geometric lace, botanical glove fingers, floating lotus buds, and minimalist negative space.",
     features: ["Modern Geometric Mesh", "Breathable Negative Space", "Fast-Dry Organic Formula", "Bespoke Monograms"],
-    image: "https://images.unsplash.com/photo-1583939003579-730e3918a45a?q=80&w=1000&auto=format&fit=crop",
+    image: "images/4.png",
   },
 ];
 

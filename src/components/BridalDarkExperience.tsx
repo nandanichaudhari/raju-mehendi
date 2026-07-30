@@ -39,7 +39,7 @@ export const BridalDarkExperience: React.FC<BridalDarkExperienceProps> = ({ onOp
 
               <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-[#C6A477]/30 bg-[#3A2522] aspect-4/5">
                 <img
-                  src="https://images.unsplash.com/photo-1583939003579-730e3918a45a?q=80&w=1000&auto=format&fit=crop"
+                  src="images/1.png"
                   alt="Intricate Royal Bridal Henna Artwork"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover object-center"

@@ -80,7 +80,7 @@ export const PreBookingCTA: React.FC<PreBookingCTAProps> = ({
               {/* Vertical Image Frame */}
               <div className="relative rounded-2xl overflow-hidden shadow-2xl border-2 border-[#C6A477]/40 bg-[#3A2522] aspect-4/5 transform lg:-rotate-1 hover:rotate-0 transition-transform duration-500">
                 <img
-                  src="https://images.unsplash.com/photo-1595981267035-7b04ca84a82d?q=80&w=1000&auto=format&fit=crop"
+                  src="images/10.jpg"
                   alt="Royal Bridal Mehendi Journey Artistry"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover object-center"

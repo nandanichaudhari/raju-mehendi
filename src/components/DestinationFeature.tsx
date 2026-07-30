@@ -83,7 +83,7 @@ export const DestinationFeature: React.FC<DestinationFeatureProps> = ({ onOpenBo
               {/* Main Destination Image */}
               <div className="relative rounded-2xl overflow-hidden shadow-2xl border-4 border-[#F7F1E8] bg-[#F7F1E8] aspect-4/5">
                 <img
-                  src="https://images.unsplash.com/photo-1532712938310-34cb3982ef74?q=80&w=1000&auto=format&fit=crop"
+                  src="images/2.png"
                   alt="Royal Destination Palace Wedding Mehendi Setting"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover object-center"
